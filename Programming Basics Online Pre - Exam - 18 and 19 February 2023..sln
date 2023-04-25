@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Christmas Preparation", "..\Programming Basics Online Pre - Exam - 18 and 19 February 2023\01. Christmas Preparation\01. Christmas Preparation.csproj", "{33D4DF38-7094-4846-BB0C-2E849A603F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Deer of Santa", "..\Programming Basics Online Pre - Exam - 18 and 19 February 2023\02. Deer of Santa\02. Deer of Santa.csproj", "{C4A0E2B7-220F-46B9-B07C-AE61DBE86347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Courier Express", "..\Programming Basics Online Pre - Exam - 18 and 19 February 2023\03. Courier Express\03. Courier Express.csproj", "{D06A9973-5F2B-450B-8082-5F07A00E00E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Computer Firm", "..\Programming Basics Online Pre - Exam - 18 and 19 February 2023\04. Computer Firm\04. Computer Firm.csproj", "{08D41EFB-44B5-4138-BD37-3F3E4E543D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Excursion Sale", "..\Programming Basics Online Pre - Exam - 18 and 19 February 2023\05. Excursion Sale\05. Excursion Sale.csproj", "{CC66B8E0-461F-4286-8AB4-EDA78594F8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Multiply Table", "..\Programming Basics Online Pre - Exam - 18 and 19 February 2023\06. Multiply Table\06. Multiply Table.csproj", "{61AF0FC7-404A-4D99-8CAB-3908716456F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D4DF38-7094-4846-BB0C-2E849A603F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D4DF38-7094-4846-BB0C-2E849A603F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D4DF38-7094-4846-BB0C-2E849A603F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D4DF38-7094-4846-BB0C-2E849A603F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A0E2B7-220F-46B9-B07C-AE61DBE86347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A0E2B7-220F-46B9-B07C-AE61DBE86347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A0E2B7-220F-46B9-B07C-AE61DBE86347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A0E2B7-220F-46B9-B07C-AE61DBE86347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06A9973-5F2B-450B-8082-5F07A00E00E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06A9973-5F2B-450B-8082-5F07A00E00E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06A9973-5F2B-450B-8082-5F07A00E00E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06A9973-5F2B-450B-8082-5F07A00E00E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D41EFB-44B5-4138-BD37-3F3E4E543D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D41EFB-44B5-4138-BD37-3F3E4E543D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D41EFB-44B5-4138-BD37-3F3E4E543D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D41EFB-44B5-4138-BD37-3F3E4E543D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC66B8E0-461F-4286-8AB4-EDA78594F8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC66B8E0-461F-4286-8AB4-EDA78594F8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC66B8E0-461F-4286-8AB4-EDA78594F8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC66B8E0-461F-4286-8AB4-EDA78594F8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AF0FC7-404A-4D99-8CAB-3908716456F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AF0FC7-404A-4D99-8CAB-3908716456F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AF0FC7-404A-4D99-8CAB-3908716456F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AF0FC7-404A-4D99-8CAB-3908716456F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26514F8C-4649-4DA0-A960-6ED213B07196}
+	EndGlobalSection
+EndGlobal
